@@ -63,3 +63,5 @@ Podcast("Almoço","Comida", 10)
 
 for item in catalogo:
      item.exibir_info()
+
+# TE AMO PAVLOVIC <3
